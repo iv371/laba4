@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637951948 source:d:\c++\4þ4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1638965249 source:d:\c++\4.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
